@@ -635,8 +635,8 @@ $ where black
 
 6. Optionally, run Black on every file save:
 
-    1. Make sure you have the [File Watcher](https://plugins.jetbrains.com/plugin/7177-file-watchers) plugin installed.
-    2. Go to `Preferences -> Tools -> File Watchers` and click `+` to add a new watcher:
+    1. Make sure you have the [File Watchers](https://plugins.jetbrains.com/plugin/7177-file-watchers) plugin installed.
+    2. Go to `File -> Settings -> Tools -> File Watchers` and click `+` to add a new custom watcher:
         - Name: Black
         - File type: Python
         - Scope: Project Files
